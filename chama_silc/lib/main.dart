@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget{
       ),
 body: Stack(children: [
   Container(decoration: BoxDecoration(
-    color: Colors.brown
+    color: Colors.brown[100]
   ),)
 ],
 )
